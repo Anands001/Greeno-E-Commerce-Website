@@ -9,7 +9,6 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Add Product</title>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" ></script>
 <script>
 function fun4(){
 	document.getElementById('inputproductname').setAttribute('name','productname');
